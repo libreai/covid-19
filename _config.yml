@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Covid-19 in Irenald
+title: Covid-19
 description: by Libre AI
 github_username: libreai
 # you can comment the below line out if your repo name is not different than your baseurl
@@ -14,7 +14,7 @@ github_repo: "covid-19"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value.
-url: "https://libreai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://libreai.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -55,7 +55,7 @@ show_image: false
 show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
+google_analytics: ""
 
 exclude:
   - docker-compose.yml
