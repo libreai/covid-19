@@ -18,7 +18,7 @@
   
       ,"page1": {
           "title": "About",
-          "content": "Dashboards of Covid-19 to visualize public data available. Source code: [https://github.com/libreai/covid-19] . . This is a project of Libre AI. . Except where otherwise noted, content on this site, including the notebooks and figures, is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License&lt; &gt;. 2020. . . built with fastpages .",
+          "content": "Dashboards of Covid-19 to visualize public data available. Source code: [https://github.com/libreai/covid-19] . . This is a project of Libre AI. . Except where otherwise noted, content on this site, including the notebooks and figures, is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License . 2020. . . built with fastpages .",
           "url": "https://libreai.github.io/covid-19/about/",
           "relUrl": "/about/",
           "date": ""
