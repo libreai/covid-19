@@ -3,7 +3,29 @@
     
         "post0": {
             "title": "Covid-19 en Centroamérica",
-            "content": "Última actualización 2020-03-28 10:24 AM CST . &lt;!DOCTYPE html&gt; Covid-19 en Centroamérica . .",
+            "content": "Última actualización 2020-03-28 10: 24 AM CST . display(HTML(html_head + base_map_html + base_layer + &quot; n&quot;.join(map_circles_html))) . Covid-19 en Centroamérica . .",
+            "url": "https://libreai.github.io/covid-19/covid-19-ca/",
+            "relUrl": "/covid-19-ca/",
+            "date": " • Mar 28, 2020"
+        }
+        
+    
+  
+    
+        ,"post1": {
+            "title": "Covid-19 in Ireland",
+            "content": "Last updated on 2020-03-28 10:46 PM IST . . Total Confirmed: 2,415 . Total Deaths: 36 . Total Recovered: 5 . . . Important: Starting on March 16th, 2020, Ireland has more #COVID19 cases per million (and growing quickly) than the most affected countries in Europe, Italy and Spain, at their early stages. . . cases_ie.tail() . date country cases new_cases days_since_10_cases . 18 2020-03-24 | Ireland | 1329 | 204 | 18 | . 19 2020-03-25 | Ireland | 1564 | 235 | 19 | . 20 2020-03-26 | Ireland | 1819 | 255 | 20 | . 21 2020-03-27 | Ireland | 2121 | 302 | 21 | . 22 2020-03-28 | Ireland | 2415 | 294 | 22 | . . Number of Covid-19 cases per million . The respective population of Ireland, Italy, and Spain is as follows (in millions) [source]: . Ireland : 4.9M | Italy : 60.2M | Spain : 47.1M | . If we plot a figure dividing the total number of cases reported daily by the population (in millions) we can find how many persons are infected per 1 million, which give us a normalized value we could use to understand the severity of the outbreak. . The figure below shows that in fact Ireland has more cases per million than the most affected countries in Europe starting on March 16th, 2020, and growing quickly. . . Data Sources . Government of Ireland [https://www.gov.ie/] | 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE [https://github.com/CSSEGISandData/COVID-19] | .",
+            "url": "https://libreai.github.io/covid-19/covid-19-dashboard-ie/",
+            "relUrl": "/covid-19-dashboard-ie/",
+            "date": " • Mar 28, 2020"
+        }
+        
+    
+  
+    
+        ,"post2": {
+            "title": "Covid-19 en Centroamérica",
+            "content": "Última actualización 2020-03-28 10: 24 AM CST . &lt;!DOCTYPE html&gt; Covid-19 en Centroamérica . .",
             "url": "https://libreai.github.io/covid-19/covid-19-ca/",
             "relUrl": "/covid-19-ca/",
             "date": " • Mar 27, 2020"
@@ -12,9 +34,9 @@
     
   
     
-        ,"post1": {
+        ,"post3": {
             "title": "Covid-19 in Ireland",
-            "content": "Last updated on 2020-03-26 10:02 PM IST . . Total Confirmed: 1819 . Total Deaths: 19 . Total Recovered: 5 . . . Important: Starting on March 16th, 2020, Ireland has more #COVID19 cases per million (and growing quickly) than the most affected countries in Europe, Italy and Spain, at their early stages. . . Number of Covid-19 cases per million . The respective population of Ireland, Italy, and Spain is as follows (in millions) [source]: . Ireland : 4.9M | Italy : 60.2M | Spain : 47.1M | . If we plot a figure dividing the total number of cases reported daily by the population (in millions) we can find how many persons are infected per 1 million, which give us a normalized value we could use to understand the severity of the outbreak. . The figure below shows that in fact Ireland has more cases per million than the most affected countries in Europe starting on March 16th, 2020, and growing quickly. . . Data Sources . Government of Ireland [https://www.gov.ie/] | 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE [https://github.com/CSSEGISandData/COVID-19] | .",
+            "content": "Last updated on 2020-03-26 10: 02 PM IST . . Total Confirmed: 1819 . Total Deaths: 19 . Total Recovered: 5 . . . Important: Starting on March 16th, 2020, Ireland has more #COVID19 cases per million (and growing quickly) than the most affected countries in Europe, Italy and Spain, at their early stages. . . Number of Covid-19 cases per million . The respective population of Ireland, Italy, and Spain is as follows (in millions) [source]: . Ireland : 4.9M | Italy : 60.2M | Spain : 47.1M | . If we plot a figure dividing the total number of cases reported daily by the population (in millions) we can find how many persons are infected per 1 million, which give us a normalized value we could use to understand the severity of the outbreak. . The figure below shows that in fact Ireland has more cases per million than the most affected countries in Europe starting on March 16th, 2020, and growing quickly. . . Data Sources . Government of Ireland [https://www.gov.ie/] | 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE [https://github.com/CSSEGISandData/COVID-19] | .",
             "url": "https://libreai.github.io/covid-19/covid-19-dashboard-ie/",
             "relUrl": "/covid-19-dashboard-ie/",
             "date": " • Mar 21, 2020"
