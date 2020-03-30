@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_5c1fb47ffc514a4eaab538864af9d21c {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_5c1fb47ffc514a4eaab538864af9d21c" ></div>
+        
+</body>
+<script>    
+    
+            var map_5c1fb47ffc514a4eaab538864af9d21c = L.map(
+                "map_5c1fb47ffc514a4eaab538864af9d21c",
+                {
+                    center: [12.5, -87.0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 6,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_3334bb567fa4440d89073a478759e09c = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 7, "maxZoom": 7, "minZoom": 5, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_5c1fb47ffc514a4eaab538864af9d21c);
+        
+    
+            var circle_marker_3487d530f37b4a4682eb972feba751db = L.circleMarker(
+                [14.63, -90.56],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f03", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.830951894845301, "stroke": true, "weight": 3}
+            ).addTo(map_5c1fb47ffc514a4eaab538864af9d21c);
+        
+    
+            circle_marker_3487d530f37b4a4682eb972feba751db.bindTooltip(
+                `<div>
+                     <div><b>Guatemala</b><br/>
+        <span style='color:red'><h3 style='display:inline'>34</h3></span>
+        &nbsp;personas infectadas</div>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_76241db037444239a1e76d93e6193194 = L.circleMarker(
+                [17.25, -88.8],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f03", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1.4142135623730951, "stroke": true, "weight": 3}
+            ).addTo(map_5c1fb47ffc514a4eaab538864af9d21c);
+        
+    
+            circle_marker_76241db037444239a1e76d93e6193194.bindTooltip(
+                `<div>
+                     <div><b>Belize</b><br/>
+        <span style='color:red'><h3 style='display:inline'>2</h3></span>
+        &nbsp;personas infectadas</div>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_cda0273e98804d319deaf22998b3e028 = L.circleMarker(
+                [14.08, -87.24],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f03", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10.488088481701515, "stroke": true, "weight": 3}
+            ).addTo(map_5c1fb47ffc514a4eaab538864af9d21c);
+        
+    
+            circle_marker_cda0273e98804d319deaf22998b3e028.bindTooltip(
+                `<div>
+                     <div><b>Honduras</b><br/>
+        <span style='color:red'><h3 style='display:inline'>110</h3></span>
+        &nbsp;personas infectadas</div>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_5c3df8eb01314957913573618c985dad = L.circleMarker(
+                [13.69, -89.25],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f03", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4.898979485566356, "stroke": true, "weight": 3}
+            ).addTo(map_5c1fb47ffc514a4eaab538864af9d21c);
+        
+    
+            circle_marker_5c3df8eb01314957913573618c985dad.bindTooltip(
+                `<div>
+                     <div><b>El Salvador</b><br/>
+        <span style='color:red'><h3 style='display:inline'>24</h3></span>
+        &nbsp;personas infectadas</div>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_4a4e6618420945ce8a49192632be4c5f = L.circleMarker(
+                [12.1, -86.33],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f03", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2.0, "stroke": true, "weight": 3}
+            ).addTo(map_5c1fb47ffc514a4eaab538864af9d21c);
+        
+    
+            circle_marker_4a4e6618420945ce8a49192632be4c5f.bindTooltip(
+                `<div>
+                     <div><b>Nicaragua</b><br/>
+        <span style='color:red'><h3 style='display:inline'>4</h3></span>
+        &nbsp;personas infectadas</div>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_61836058abb84c53a918c4dfb95ed303 = L.circleMarker(
+                [9.94, -84.15],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f03", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 17.72004514666935, "stroke": true, "weight": 3}
+            ).addTo(map_5c1fb47ffc514a4eaab538864af9d21c);
+        
+    
+            circle_marker_61836058abb84c53a918c4dfb95ed303.bindTooltip(
+                `<div>
+                     <div><b>Costa Rica</b><br/>
+        <span style='color:red'><h3 style='display:inline'>314</h3></span>
+        &nbsp;personas infectadas</div>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_988d3c6dbde94063b6e16b3792761d8d = L.circleMarker(
+                [9.08, -79.59],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f03", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 30.01666203960727, "stroke": true, "weight": 3}
+            ).addTo(map_5c1fb47ffc514a4eaab538864af9d21c);
+        
+    
+            circle_marker_988d3c6dbde94063b6e16b3792761d8d.bindTooltip(
+                `<div>
+                     <div><b>Panama</b><br/>
+        <span style='color:red'><h3 style='display:inline'>901</h3></span>
+        &nbsp;personas infectadas</div>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
