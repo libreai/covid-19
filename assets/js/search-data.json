@@ -2,8 +2,8 @@
   
     
         "post0": {
-            "title": "Covid-19 en Centroamérica",
-            "content": "Last updated on 2020-03-31 12:25 UTC . . País Diagnosticados Muertos Curados . Belize 🇧🇿 | 3 | 0 | 0 | . Costa Rica 🇨🇷 | 330 | 2 | 4 | . El Salvador 🇸🇻 | 30 | 0 | 0 | . Guatemala 🇬🇹 | 36 | 1 | 10 | . Honduras 🇭🇳 | 139 | 7 | 3 | . Nicaragua 🇳🇮 | 4 | 1 | 0 | . Panama 🇵🇦 | 989 | 24 | 4 | . . Data Sources . 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE [https://github.com/CSSEGISandData/COVID-19] | .",
+            "title": "COVID-19 en Centroamérica",
+            "content": "Last updated on 2020-03-31 21:10 UTC . population_in_m = {&#39;gt&#39;: 16.6, &#39;bz&#39;: 0.41, &#39;hn&#39;: 9.16, &#39;sv&#39;: 6.49, &#39;ni&#39;: 6.46, &#39;cr&#39;: 5.06, &#39;pa&#39;: 4.22 } . . País Diagnosticados Muertos Curados . Belize 🇧🇿 | 3 | 0 | 0 | . Costa Rica 🇨🇷 | 330 | 2 | 4 | . El Salvador 🇸🇻 | 30 | 0 | 0 | . Guatemala 🇬🇹 | 36 | 1 | 10 | . Honduras 🇭🇳 | 139 | 7 | 3 | . Nicaragua 🇳🇮 | 4 | 1 | 0 | . Panama 🇵🇦 | 989 | 24 | 4 | . . Diagnosticados por Millon de Habitantes . . Fuentes . 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE [https://github.com/CSSEGISandData/COVID-19] | Población Mundial por País [https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population] | .",
             "url": "https://covid19.libreai.com/covid-19-ca/",
             "relUrl": "/covid-19-ca/",
             "date": " • Mar 28, 2020"
@@ -13,8 +13,8 @@
   
     
         ,"post1": {
-            "title": "Covid-19 in Ireland",
-            "content": ". Total Confirmed: 2910 . Total Deaths: 54 . Total Recovered: 5 . . Last updated on 2020-03-31 08:18 UTC . . Number of Covid-19 cases per million . The respective population of Ireland, Italy, and Spain is as follows (in millions) [source]: . Ireland : 4.9M | Italy : 60.2M | Spain : 47.1M | . If we plot a figure dividing the total number of cases reported daily by the population (in millions) we can find how many persons are infected per 1 million, which give us a normalized value we could use to understand the severity of the outbreak. . The figure below shows that in fact Ireland has more cases per million than the most affected countries in Europe starting on March 16th, 2020, and growing quickly. . . Data Sources . Government of Ireland [https://www.gov.ie/] | 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE [https://github.com/CSSEGISandData/COVID-19] | .",
+            "title": "COVID-19 in Ireland",
+            "content": ". Total Confirmed: 2910 . Total Deaths: 54 . Total Recovered: 5 . . Last updated on 2020-03-31 13:23 UTC . . Number of Covid-19 cases per million . The respective population of Ireland, Italy, and Spain is as follows (in millions) [source]: . Ireland : 4.9M | Italy : 60.2M | Spain : 47.1M | . If we plot a figure dividing the total number of cases reported daily by the population (in millions) we can find how many persons are infected per 1 million, which give us a normalized value we could use to understand the severity of the outbreak. . The figure below shows that in fact Ireland has more cases per million than the most affected countries in Europe starting on March 16th, 2020, and growing quickly. . . Data Sources . Government of Ireland [https://www.gov.ie/] | 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE [https://github.com/CSSEGISandData/COVID-19] | .",
             "url": "https://covid19.libreai.com/covid-19-dashboard-ie/",
             "relUrl": "/covid-19-dashboard-ie/",
             "date": " • Mar 28, 2020"
