@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Dashboards of Covid-19 to visualize public data available. [Source code](https://github.com/libreai/covid-19).
+Dashboards of COVID-19 to visualize public data available. [Source code](https://github.com/libreai/covid-19).
 
 This is a project of [Libre AI](https://libreai.com).
 
