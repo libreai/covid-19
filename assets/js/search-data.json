@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "COVID-19 en Centroamérica",
-            "content": "Last updated on 2020-03-31 13:23 UTC . . País Diagnosticados Muertos Curados . Belize 🇧🇿 | 3 | 0 | 0 | . Costa Rica 🇨🇷 | 330 | 2 | 4 | . El Salvador 🇸🇻 | 30 | 0 | 0 | . Guatemala 🇬🇹 | 36 | 1 | 10 | . Honduras 🇭🇳 | 139 | 7 | 3 | . Nicaragua 🇳🇮 | 4 | 1 | 0 | . Panama 🇵🇦 | 989 | 24 | 4 | . . Fuentes . 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE [https://github.com/CSSEGISandData/COVID-19] | .",
+            "content": "Last updated on 2020-03-31 20:52 UTC . population_in_m = {&#39;gt&#39;: 16.6, &#39;bz&#39;: 0.41, &#39;hn&#39;: 9.16, &#39;sv&#39;: 6.49, &#39;ni&#39;: 6.46, &#39;cr&#39;: 5.06, &#39;pa&#39;: 4.22 } . cdr[c].size,cdr_ca.size . (294, 1610) . . País Diagnosticados Muertos Curados . Belize 🇧🇿 | 3 | 0 | 0 | . Costa Rica 🇨🇷 | 330 | 2 | 4 | . El Salvador 🇸🇻 | 30 | 0 | 0 | . Guatemala 🇬🇹 | 36 | 1 | 10 | . Honduras 🇭🇳 | 139 | 7 | 3 | . Nicaragua 🇳🇮 | 4 | 1 | 0 | . Panama 🇵🇦 | 989 | 24 | 4 | . . . Fuentes . 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE [https://github.com/CSSEGISandData/COVID-19] | Población Mundial por País [https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population] | .",
             "url": "https://covid19.libreai.com/covid-19-ca/",
             "relUrl": "/covid-19-ca/",
             "date": " • Mar 28, 2020"
@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About",
-          "content": "Dashboards of Covid-19 to visualize public data available. Source code. . This is a project of Libre AI. . Except where otherwise noted, content on this site, including the notebooks and figures, is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.  . . built with fastpages .",
+          "content": "Dashboards of COVID-19 to visualize public data available. Source code. . This is a project of Libre AI. . Except where otherwise noted, content on this site, including the notebooks and figures, is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.  . . built with fastpages .",
           "url": "https://covid19.libreai.com/about/",
           "relUrl": "/about/",
           "date": ""
